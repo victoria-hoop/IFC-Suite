@@ -9,7 +9,7 @@ import ifcopenshell.util.representation
 import numpy as np
 from shapely.geometry import Polygon
 
-from . import global_variables as gvars
+from bimify import global_variables as gvars
 from .elements import *
 
 
